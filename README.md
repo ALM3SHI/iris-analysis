@@ -1,4 +1,4 @@
-\# Iris Dataset Analysis
+# Iris Dataset Analysis
 
 
 
@@ -6,7 +6,7 @@ Basic analysis of the Iris dataset using Pandas in a Jupyter Notebook.
 
 
 
-\## Setup
+## Setup
 
 
 
@@ -14,29 +14,29 @@ Open a terminal in the project folder and run:
 
 
 
-&#x20;   uv sync
+    uv sync
 
-&#x20;   uv run jupyter notebook
-
-
-
-Then open iris\_analysis.ipynb and run all cells.
+    uv run jupyter notebook
 
 
 
-\## Summary of Findings
+Then open iris_analysis.ipynb and run all cells.
 
 
 
-\- The dataset has 150 rows and 5 columns.
+## Summary of Findings
 
-\- There are no missing values and one duplicate row.
 
-\- There are 3 species with 50 flowers each.
 
-\- The average sepal length is 5.84.
+- The dataset has 150 rows and 5 columns.
 
-\- 61 flowers have a sepal length greater than 6.
+- There are no missing values and one duplicate row.
 
-\- Virginica has the highest average petal length.
+- There are 3 species with 50 flowers each.
+
+- The average sepal length is 5.84.
+
+- 61 flowers have a sepal length greater than 6.
+
+- Virginica has the highest average petal length.
 
